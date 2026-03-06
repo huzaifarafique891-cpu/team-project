@@ -6,3 +6,4 @@ def login(username, password):
 
 login("admin", "1234")
 print("Feature under development")
+print("Logging system initialized")
